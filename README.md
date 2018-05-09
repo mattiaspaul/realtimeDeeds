@@ -4,8 +4,8 @@ Example code for TBME Publication *"Model-based Sparse-to-dense Image Registrati
 
 
 **Datasets**<p>
+Datasets used in the experments: <p>
 - *2D MRI dataset [1]* used in the code can be found under: https://zenodo.org/record/55345#.WvLINd8xBhF <p>
-
 - *3D MRI dataset [2]* and *3D US dataset [3]* can be found under:<p>
   [2] http://www.vision.ee.ethz.ch/en/datasets/ (4D MRI lung data) <p>
   [3] http://clust.ethz.ch/data.html <p>
